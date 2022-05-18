@@ -1,3 +1,12 @@
+forked from huggla/MindTouch_Core// 17.05.2022
+
+Target:
+- Running mindtouch core via docker
+- Migration TurnKey Linux mintouh core to docker
+- Update dependent software
+
+
+
 ==============================================================================
 This Fork is to test my changes on Mindtouch Core from the years 2010 until 2017
 
