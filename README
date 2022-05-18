@@ -5,6 +5,11 @@ Target:
 - Migration TurnKey Linux mintouh core to docker
 - Update dependent software
 
+Migration candidates:
+- firncore.trialanderror.tech
+- firncore2.trialanderror.tech
+- firncore3.trialanderror.tech
+- firncore5.trialanderror.tech
 
 
 ==============================================================================
